@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(23, 3, 37);
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+/* Header */
+header {
+  background-color: antiquewhite;
+  color: black;
+  padding: 20px;
+}
+
+/* Navigation */
+nav {
+  background-color: rgba(17, 240, 207, 0.886);
+  padding: 20px;
+}
+
+nav a {
+  color: rgb(0, 77, 185);
+  text-decoration: none;
+  margin: 15px;
+  font-weight: bold;
+}
+
+/* Sections */
+section {
+  padding: 40px;
+  margin: 20px auto;
+  max-width: 90%;
+}
+
+img {
+  max-width: 500px;
+  height: auto;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+/* Colored Sections */
+.colored-section {
+  background-color: rgba(17, 240, 207, 0.886);
+  color: black;
+}
+
+/* Contact Section (white background) */
+.white-section {
+  background-color: white;
+  color: black;
+}
+
+/* Footer */
+footer {
+  background-color: rgb(2, 238, 203);
+  color: black;
+  padding: 15px;
+}
